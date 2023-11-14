@@ -1,6 +1,6 @@
-#TweetScrape Package:
+# TweetScrape Package:
 
-This is my attempt to create a tweet scraper using R. RSelenium and Mozilla Firefox browser are used to accomplished the goals to tweet issues/news in the twitter platform. 
+This is my attempt to create a tweet scraper using R. RSelenium and Mozilla Firefox browser are used to accomplished the goals to scrape tweet about issues/news in the twitter platform. 
 
 Steps to scrape tweet:
 1. Install Mozilla Firefox browser.
