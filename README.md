@@ -4,11 +4,12 @@ This is my attempt to create a tweet scraper using R. RSelenium and Mozilla Fire
 
 Steps to scrape tweet:
 1. Install Mozilla Firefox browser.
-2. Run the 'main.R' document.
-3. follow the prompt messages shown in the R console.
-4. --top (is used to find the top tweet).
-5. --latest (is used to find the latest tweet).
-6. --people (is used to find the tweet posts by a tweet account).
+2. Run devtools::install_github('FaizAzhar/tweetscrape').
+3. Copy & run the 'main.R' document.
+4. follow the prompt messages shown in the R console.
+5. --top (is used to find the top tweet).
+6. --latest (is used to find the latest tweet).
+7. --people (is used to find the tweet posts by a tweet account).
 
 EG: --top --50 --palestine 
 Above command will scrape 50+ top tweets mentioning palestine.
